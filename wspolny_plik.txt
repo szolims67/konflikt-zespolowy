@@ -1,2 +1,3 @@
 Tekst początkowy
 linia B
+Linia dodana przez Studenta A
